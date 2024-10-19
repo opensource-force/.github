@@ -26,7 +26,7 @@ There are many ways to actively participate in the **Open Source Force** communi
 
 We want to maintain a healthy, productive environment for all members. If you experience any issues or notice something concerning, please:
 
-1. **Reach out to Staff**: You can directly contact the mods on Discord for help or to report any issues.
+1. **Reach out to Staff**: You can directly contact the staff on Discord for help or to report any issues.
 2. **Provide Feedback**: Your suggestions are important to us. Let us know how we can improve the community experience.
 
 ---
